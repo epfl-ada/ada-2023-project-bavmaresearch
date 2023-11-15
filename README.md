@@ -14,7 +14,7 @@ First we have to define with him the way he defines sucess for a movie. Then we 
 
 ### Our aim is to analyse the factors that determine a film's success. 
 
-1) First we need to define the **measures of success**. Several indicators could work: number of awards (Oscar, César, etc.), film revenues, reviews, IMBD scores, Twitter/X reactions, etc. 
+1) First we need to define the **measures of success**. Several indicators could work: number of awards (Oscar, César, etc.), film revenues, reviews, IMDb scores, Twitter/X reactions, etc. 
 
 2) In addition, we feel it is important to segment our analysis according to **film genre**: the success factors should be different between a romantic comedy and an action film.
 
@@ -40,8 +40,8 @@ First we have to define with him the way he defines sucess for a movie. Then we 
 |**Price and nominations** |Reliability |Price are not the same. Hard-to-find information | Scrapping Internet or Wikipedia|
 |**Box-office revenue**| Numerical value |Depends on the country, depends on the budget invested. Better to find the return on investment | Difficult to find |
 |**Movie reviews**| Using NLP, sentimental analysis| Subjective| Available on IMDb |
-|**IMBD number of votes**| Adds credibility to the ratings, objective|Not a always correlated with success |Scrapping of IMDb website |
-|**IMBD ratings**|Objective | Difficult to access for all movies| Scrapping of IMDb website|
+|**IMDb number of votes**| Adds credibility to the ratings, objective|Not a always correlated with success |Scrapping of IMDb website |
+|**IMDb ratings**|Objective | Difficult to access for all movies| Scrapping of IMDb website|
 |**Twitter/X reactions**|Sentimental analysis|Only available for recent movies|Using Twitter Api and find reactions to #movie_name|
 
 ### Questions and first comments
@@ -57,9 +57,9 @@ First we have to define with him the way he defines sucess for a movie. Then we 
 ## Further steps and methodology
 
 ### 1. Finding data and cleaning
-IMBD: 
+IMDb: 
 - Database online: [IMDb free database](https://developer.imdb.com/non-commercial-datasets/) 
-- Data scrapping of IMDb reviews (if we have time): [IMDb scores](exploration/IMBD_scrapping_v1.ipynb) 
+- Data scrapping of IMDb reviews (if we have time): [IMDb scores](exploration/IMDb_scrapping_v1.ipynb) 
 
 Twitter:
 - Twitter API (if we have time): extract tweets for each modern movie
@@ -72,7 +72,7 @@ Cleaning CMU database:
 
 
 Merging dataframes:
-- Merging CMU movies dataframe with IMBD ratings
+- Merging CMU movies dataframe with IMDb ratings
 
 
 
@@ -125,7 +125,7 @@ METTRE UN GANT POUR EXPLIQUER QUI FAIT QUOI JUSQUA LA FIN
 
 ## Sources
 
-- [IMBD ratings scrapping](https://www.geeksforgeeks.org/scrape-imdb-movie-rating-and-details-using-python/)
+- [IMDb ratings scrapping](https://www.geeksforgeeks.org/scrape-imdb-movie-rating-and-details-using-python/)
 - Learning Latent Personas of Film Characters, David Bamman Brendan O’Connor Noah A. Smith
 - [NLP for movie history on medium](https://towardsdatascience.com/an-nlp-movie-history-44487ec0144f)
 - [Festival nomination website](https://mfdb.eu/en/): easy to scrap
