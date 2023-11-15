@@ -39,9 +39,9 @@ First we have to define with him the way he defines sucess for a movie. Then we 
 | --- | --- | --- | --- |
 |**Price and nominations** |Reliability |Price are not the same. Hard-to-find information | Scrapping Internet or Wikipedia|
 |**Box-office revenue**| Numerical value |Depends on the country, depends on the budget invested. Better to find the return on investment | Difficult to find |
-|**Movie reviews**| Using NLP, sentimental analysis| Subjective| Available on IMBD |
-|**IMBD number of votes**| Adds credibility to the ratings, objective|Not a always correlated with success |Scrapping of IMBD website |
-|**IMBD ratings**|Objective | Difficult to access for all movies| Scrapping of IMBD website|
+|**Movie reviews**| Using NLP, sentimental analysis| Subjective| Available on IMDb |
+|**IMBD number of votes**| Adds credibility to the ratings, objective|Not a always correlated with success |Scrapping of IMDb website |
+|**IMBD ratings**|Objective | Difficult to access for all movies| Scrapping of IMDb website|
 |**Twitter/X reactions**|Sentimental analysis|Only available for recent movies|Using Twitter Api and find reactions to #movie_name|
 
 ### Questions and first comments
@@ -58,8 +58,8 @@ First we have to define with him the way he defines sucess for a movie. Then we 
 
 ### 1. Finding data and cleaning
 IMBD: 
-- Database online: [IMBD free database](https://developer.imdb.com/non-commercial-datasets/) 
-- Data scrapping of IMBD reviews (if we have time): [IMBD scores](exploration/IMBD_scrapping_v1.ipynb) 
+- Database online: [IMDb free database](https://developer.imdb.com/non-commercial-datasets/) 
+- Data scrapping of IMDb reviews (if we have time): [IMDb scores](exploration/IMBD_scrapping_v1.ipynb) 
 
 Twitter:
 - Twitter API (if we have time): extract tweets for each modern movie
