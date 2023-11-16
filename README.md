@@ -13,7 +13,6 @@ When you arrive at the interface, you can choose the genre of the film you want 
 To determine the parameters that will bring fame to our client, we search for links among similar successful films. To find out whether a film is a success or not, we give it a score based on awards (Oscars, nominations...), ratings and budgets.
 We then look at whether budget has a major influence on success, as well as screen time, choice of actors and other parameters.
 
-
 ## Research questions
 
 - Which genre is more represented according to a location? Which genre perform better according à location?
@@ -55,9 +54,9 @@ As we are rating the movies, we need to access the reviews, the budgets, inflati
 
 ### Part 2: Merge & Clean the data
 
-**Step 5:** Load the dataset and clean the data like having a norm for the date format, delete the nan, clean the textual data...
+**Step 5:** Load the initial datasets and clean the data. For example we need to have all the date in the same format, we delete the NaN, we clean the textual data and many other things to see in the notebook.
 
-**Step 6:** Classify the genres and the mainland as defined in step 2 and 3.
+**Step 6:** Classify the genres and the mainland as defined in step 2 and 3. We create two lists, one with the most famous genres and an other with the top 10 genres in the dataset. For the locations we map the country to its mainland (Europe, Asia, Africa, America, Oceania) and we make an exception for the USA because it already represents a huge proportion of the dataset.
 
 **Step 7:** Merge the additional datasets
 
@@ -89,7 +88,7 @@ As we are rating the movies, we need to access the reviews, the budgets, inflati
 |**Mathieu**|Data merging and initial analysis of scientific questions feasibility| 
 |**Benoit**|Analysis/grouping of genres and countries + ReadMe| 
 |**Antoine**|Data cleaning and initial analysis of scientific questions feasibility|
-|**Valentin**|Define the formula for the success rating |
+|**Valentin**|Define the formula and the ML algorithm for the success rating |
 
 
 ## Additional ideas
@@ -98,6 +97,7 @@ These are some ideas that we wanted to implement, but we need more ressources an
 - Extract themes from movie plots: find key words linked to movie genre ?
 - Extract sentiment analysis score of a movie from plot
 - Extract sentiment score of movie reviews and tweets (average, median ?)
+- Analysis on the Stanford dataset
 
 
 
