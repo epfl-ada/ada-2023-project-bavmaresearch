@@ -9,24 +9,24 @@ You can access the interface by clicking on this link: *Coming soon*
 
 ## Abstract
 
-When you arrive on the interface, you can choose the genre of the film you want to make, as well as the geographical area in which it will be released. Then we give you some tips to make sure you realise a great movie.
+When you arrive on the interface, you can choose the genre of the film you want to make, as well as the location in which it will be released. Then we give you some tips to make sure you make a great movie.
 To determine these parameters, we search for links among similar successful films. We then need to define whether a film is a success or not. In order to do that, we give a score based on awards (Oscars, nominations...), ratings and budgets.
 We will then answer a series of scientific questions that will help us identify the components needed to make a good film.
 
 ## Research questions
 
-- Which genre is more represented according to a location? Which genre perform better according à location?
+- Which genre is more represented according to a location? Which genre perform better according to a location?
 - How do rating and revenue vary as a function of the genre?
-- What is the relation between revenues and being awarded
-- What is the relationship between ratings and revenues
+- What is the relation between revenues and being awarded?
+- What is the relationship between ratings and revenues?
 - Does the cast influence the gender, the revenue amount and the rating?
 - What is the optimal runtime for each genre?
 - Which relation between the screen time and the opportunity to win an award ?
-- Which genre is more nominated/awarded?
+- Which genre is more nominated/rewarded?
 
 ## Additional datasets
 
-As we are rating the movies, we need to access the reviews, the budgets, inflation and the oscars awards. We use these additional datasets in order to get our informations:
+As we are rating the movies, we need to access the reviews, the budgets, inflation and the oscars awards. We use these additional datasets in order to get these informations:
 
 - Database online: [IMDb free database](https://developer.imdb.com/non-commercial-datasets/) 
 - Data scrapping of IMDb reviews (if we have time): [IMDb scores](exploration/IMDb_scrapping_v1.ipynb)
@@ -42,9 +42,9 @@ As we are rating the movies, we need to access the reviews, the budgets, inflati
 
 **Step 2:** Since we want to compare films across genres, we need to analyze the distribution of genres across the database. We also need to select which genres to focus on (accroding to the availability of the data).
 
-**Step 3:** We should do the same as the step 2 but for the location. If we keep only the countries, we will have too few data per countries, so we need to define bigger location like mainland: Europe, Asia, Africa, Oceania, America, and USA. 
+**Step 3:** We should do the same as the step 2 but for the location. If we keep only the countries, we will have too few data per countries, so we need to define bigger location like mainland. 
 
-**Step 4:** We hav to select the other parameters that could be relevant like: 
+**Step 4:** We have to select the other parameters that could be relevant like: 
 - Latent personas (from Learning Latent Personas of Film Characters, David Bamman Brendan O’Connor Noah A. Smith): personnas in a successfull action movie will differ from those in a successfull romantic comedy. 
 - Language
 - Movie runtime
@@ -54,9 +54,11 @@ As we are rating the movies, we need to access the reviews, the budgets, inflati
 
 ### Part 2: Merge & Clean the data
 
-**Step 5:** Load the initial datasets and clean the data. For example we need to have all the date in the same format, we delete the NaN, we clean the textual data and many other things to see in the notebook.
+**Step 5:** Load the initial datasets and clean the  data. For example we need to have all the date in the same format, we delete the NaN, we clean the textual data and many other things to see in the notebook.
 
-**Step 6:** Classify the genres and the mainland as defined in step 2 and 3. We create two lists, one with the most famous genres and an other with the top 10 genres in the dataset. For the locations we map the country to its mainland (Europe, Asia, Africa, America, Oceania) and we make an exception for the USA because it already represents a huge proportion of the dataset.
+**Step 6:** Classify the genres and the mainland as defined in step 2 and 3. 
+- For the list, we keep the top 10 genres in the dataset.
+- For the locations we map the country to its mainland (Europe, Asia, Africa, America, Oceania) and we make an exception for the USA because it already represents a huge proportion of the dataset.
 
 **Step 7:** Merge the additional datasets. We can do this thanks to the Wikipedia ID movie and the tconst.
 
