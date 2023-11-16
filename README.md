@@ -67,8 +67,14 @@ A COMPLETER
 
 
 ## Organization within team
+| Teammate | Role|
+| --- | --- | 
+|**Aline** | |
+|**Mathieu**|  | 
+|**Benoit**| | 
+|**Antoine**| |
+|**Valentin**| |
 
-A COMPLETER
 
 
 
