@@ -57,10 +57,22 @@ A DEVELOPPER
 
 ## Executed timeline
 
-Milestone 2 - 17/11/2023 : Part 1 & Part 2 
+**Milestone 2** - 17/11/2023 : Part 1 & Part 2 
 
-Milestone 3 - 22/12/2023
+A COMPLETER
 
+**Milestone 3** - 22/12/2023 
+
+
+## Organization within team
+
+A COMPLETER
+
+
+
+
+
+## OLD README -> Est-ce qu'on garde?
 ## Questions and analysis
 
 ### Measures of success:  
