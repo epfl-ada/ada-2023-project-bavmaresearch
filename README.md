@@ -1,4 +1,4 @@
-How to achieve glory and success
+# How to achieve glory and success as a film maker
 
 ## Datastory
 
@@ -27,7 +27,7 @@ We then look at whether budget has a major influence on success, as well as scre
 
 ## Additional datasets
 
-As we are rating the movies, we need to access the reviews and the oscars awards and nominations. We use these additional datasets in order to get our informations:
+As we are rating the movies, we need to access the reviews, the budgets, inflation and the oscars awards. We use these additional datasets in order to get our informations:
 
 - Database online: [IMDb free database](https://developer.imdb.com/non-commercial-datasets/) 
 - Data scrapping of IMDb reviews (if we have time): [IMDb scores](exploration/IMDb_scrapping_v1.ipynb)
@@ -55,13 +55,25 @@ As we are rating the movies, we need to access the reviews and the oscars awards
 
 ### Part 2: Merge & Clean the data
 
-A DEVELOPPER
+**Step 5:** Load the dataset and clean the data like having a norm for the date format, delete the nan, clean the textual data...
+
+**Step 6:** Classify the genres and the mainland as defined in step 2 and 3.
+
+**Step 7:** Merge the additional datasets
+
+### Part 3: Analysis
+
+**Step 8:** Answers to scientific questions in response to our problem
+
+**Step 9:** Design an easy-to-use interface for the client
 
 ## Executed timeline
 
 **Milestone 2** - 17/11/2023 : Part 1 & Part 2 
 
-A COMPLETER
+10.12.2023 : Step 8
+
+20.12.2023 : Step 9
 
 **Milestone 3** - 22/12/2023 
 
