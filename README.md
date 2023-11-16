@@ -1,16 +1,18 @@
 # BAVMA project : finding success factors for movies
 
+## Datastory
+
+A producer comes to see us and wants to make a successfull movie in a given genre and for a geographical-area.
+
+He wants to find the best drivers that will make his movie sucessfull. 
 
 
 ## Goal of the project:
 
 TBU : axis of research for the producer script, funding, target, 
 
-A producer comes to see us and wants to make a successfull movie in a given genre and for a geographical-area:
-
-He wants to find the best drivers that will make his movie sucessfull
-
 First we have to define with him the way he defines sucess for a movie. Then we will help him using data analysis to decide the type of movie he/she has to realize.
+
 
 ### Our aim is to analyse the factors that determine a film's success. 
 
