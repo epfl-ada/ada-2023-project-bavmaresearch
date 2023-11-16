@@ -7,12 +7,12 @@ A producer comes to see us and wants to make a successfull movie in a given genr
 You can access the interface by clicking on the link: [Interface](Mettre un lien vers une page web qui dit :"interface en construction")
 
 
-## Goal of the project:
+## Abstract
 
-TBU : axis of research for the producer script, funding, target, 
+When you arrive at the interface, you can choose the genre of the film you want to make, as well as the geographical area in which it will be released. 
+To determine the parameters that will bring fame to our client, we search for links among similar successful films. To find out whether a film is a success or not, we give it a score based on awards (Oscars, nominations...), ratings and budgets.
 
-First we have to define with him the way he defines sucess for a movie. Then we will help him using data analysis to decide the type of movie he/she has to realize.
-
+We then look at whether budget has a major influence on success, as well as screen time, choice of actors and other parameters.
 
 ### Our aim is to analyse the factors that determine a film's success. 
 
