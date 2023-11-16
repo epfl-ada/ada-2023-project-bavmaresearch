@@ -9,9 +9,9 @@ You can access the interface by clicking on this link: *Coming soon*
 
 ## Abstract
 
-When you arrive at the interface, you can choose the genre of the film you want to make, as well as the geographical area in which it will be released. 
-To determine the parameters that will bring fame to our client, we search for links among similar successful films. To find out whether a film is a success or not, we give it a score based on awards (Oscars, nominations...), ratings and budgets.
-We then look at whether budget has a major influence on success, as well as screen time, choice of actors and other parameters.
+When you arrive on the interface, you can choose the genre of the film you want to make, as well as the geographical area in which it will be released. Then we give you some tips to make sure you realise a great movie.
+To determine these parameters, we search for links among similar successful films. We then need to define whether a film is a success or not. In order to do that, we give a score based on awards (Oscars, nominations...), ratings and budgets.
+We will then answer a series of scientific questions that will help us identify the components needed to make a good film.
 
 ## Research questions
 
