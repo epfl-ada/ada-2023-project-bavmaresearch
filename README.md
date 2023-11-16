@@ -38,7 +38,7 @@ As we are rating the movies, we need to access the reviews, the budgets, inflati
 
 ### Part 1: Define the metrics
 
-**Step 1:** We need to define the **measures of success**. Several indicators could work: number of awards (Oscar, César, etc.), film revenues, reviews, IMDb scores, etc. 
+**Step 1:** We need to define the measures of success. Several indicators could work: number of awards (Oscar, César, etc.), film revenues, reviews, IMDb scores, etc. 
 
 **Step 2:** Since we want to compare films across genres, we need to analyze the distribution of genres across the database. We also need to select which genres to focus on (accroding to the availability of the data).
 
@@ -58,13 +58,13 @@ As we are rating the movies, we need to access the reviews, the budgets, inflati
 
 **Step 6:** Classify the genres and the mainland as defined in step 2 and 3. We create two lists, one with the most famous genres and an other with the top 10 genres in the dataset. For the locations we map the country to its mainland (Europe, Asia, Africa, America, Oceania) and we make an exception for the USA because it already represents a huge proportion of the dataset.
 
-**Step 7:** Merge the additional datasets.
+**Step 7:** Merge the additional datasets. We can do this thanks to the Wikipedia ID movie and the tconst.
 
 **Step 8:** Check the feasibility of the scientific questions by checking the data availability. For each questions, have we got enough data to answer it? Plot some graphs that can explain/show the feasability.
 
 ### Part 3: Analysis
 
-**Step 8:** Answers to scientific questions in response to our problem.
+**Step 8:** Answers to scientific questions in response to our problem. This step is key for the analysis because it will highlight the parameters for the best movie according to a specific genre and location.
 
 **Step 9:** Design an easy-to-use interface for the client. The user must be able to select the movie genre and the country where he want to produce the movie, and then we show him the important criteria for a successful film.
 
