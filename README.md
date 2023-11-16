@@ -38,7 +38,7 @@ As we are rating the movies, we need to access the reviews, the budgets, inflati
 
 ### Part 1: Define the metrics
 
-**Step 1:** We need to define the **measures of success**. Several indicators could work: number of awards (Oscar, César, etc.), film revenues, reviews, IMDb scores, Twitter/X reactions, etc. 
+**Step 1:** We need to define the **measures of success**. Several indicators could work: number of awards (Oscar, César, etc.), film revenues, reviews, IMDb scores, etc. 
 
 **Step 2:** Since we want to compare films across genres, we need to analyze the distribution of genres across the database. We also need to select which genres to focus on (accroding to the availability of the data).
 
