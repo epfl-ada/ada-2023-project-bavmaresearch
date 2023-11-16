@@ -53,7 +53,13 @@ As we are rating the movies, we need to access the reviews and the oscars awards
 
 ### Part 2: Merge & Clean the data
 
+A DEVELOPPER
 
+## Executed timeline
+
+Milestone 2 - 17/11/2023 : Part 1 & Part 2 
+
+Milestone 3 - 22/12/2023
 
 ## Questions and analysis
 
