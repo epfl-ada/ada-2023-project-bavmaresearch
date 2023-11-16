@@ -69,7 +69,9 @@ As we are rating the movies, we need to access the reviews, the budgets, inflati
 
 ## Executed timeline
 
-**Milestone 2** - 17/11/2023 : Part 1 & Part 2 
+03.11.2023 : Part 1
+
+**Milestone 2** - 17/11/2023 : Part 2 
 
 10.12.2023 : Step 8
 
