@@ -25,6 +25,13 @@ We then look at whether budget has a major influence on success, as well as scre
 - Which relation between the screen time and the opportunity to win an award ?
 - Which genre is more nominated/awarded?
 
+## Additional datasets
+
+As we are rating the movies, we need to access the reviews and the oscars awards and nominations. We use these additional datasets in order to get our informations:
+
+- Database online: [IMDb free database](https://developer.imdb.com/non-commercial-datasets/) 
+- Data scrapping of IMDb reviews (if we have time): [IMDb scores](exploration/IMDb_scrapping_v1.ipynb) 
+** A COMPLETER **
 
 ### Our aim is to analyse the factors that determine a film's success. 
 
