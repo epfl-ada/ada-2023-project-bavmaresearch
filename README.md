@@ -30,7 +30,10 @@ We then look at whether budget has a major influence on success, as well as scre
 As we are rating the movies, we need to access the reviews and the oscars awards and nominations. We use these additional datasets in order to get our informations:
 
 - Database online: [IMDb free database](https://developer.imdb.com/non-commercial-datasets/) 
-- Data scrapping of IMDb reviews (if we have time): [IMDb scores](exploration/IMDb_scrapping_v1.ipynb) 
+- Data scrapping of IMDb reviews (if we have time): [IMDb scores](exploration/IMDb_scrapping_v1.ipynb)
+- Data for movie budgets : [TMDB dataset](https://www.kaggle.com/datasets/kakarlaramcharan/tmdb-data-0920)
+- Oscars nominations and wins dataset : [Oscars](https://www.kaggle.com/datasets/pushpakhinglaspure/oscar-dataset)
+- Dataset used to compute inflation adjusted profits : [US inflation data](https://www.kaggle.com/datasets/varpit94/us-inflation-data-updated-till-may-2021)
 ** A COMPLETER **
 
 ## Method
