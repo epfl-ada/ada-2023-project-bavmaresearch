@@ -1,4 +1,4 @@
-# BAVMA project : finding success factors for movies
+How to achieve glory and success
 
 ## Datastory
 
