@@ -95,9 +95,9 @@ As we are rating the movies, we need to access the reviews, the budgets, inflati
 
 These are some ideas that we wanted to implement, but we need more ressources and time.
 - Extract themes from movie plots: find key words linked to movie genre ?
-- Extract sentiment analysis score of a movie from plot
-- Extract sentiment score of movie reviews and tweets (average, median ?)
-- Analysis on the Stanford dataset
+- Extract sentiment analysis score of a movie from plot.
+- Extract sentiment score of movie reviews and tweets (average, median ?).
+- Multiple analysis on the Stanford dataset.
 
 
 
