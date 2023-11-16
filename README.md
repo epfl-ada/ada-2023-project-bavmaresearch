@@ -2,9 +2,9 @@
 
 ## Datastory
 
-A producer comes to see us and wants to make a successfull movie in a given genre and for a geographical-area.
+A producer comes to see us and wants to make a successfull movie in a given genre and for a geographical-area. He wants to find the best drivers that will make his movie sucessfull. We decided to create an easy-to-use interface where the producer can select his parameters and find a way to make the film that will bring him fame and success. 
 
-He wants to find the best drivers that will make his movie sucessfull. 
+You can access the interface by clicking on the link: [Interface](Mettre un lien vers une page web qui dit :"interface en construction")
 
 
 ## Goal of the project:
