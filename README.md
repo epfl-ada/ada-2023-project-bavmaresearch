@@ -11,8 +11,10 @@ You can access the interface by clicking on the link: [Interface](Mettre un lien
 
 When you arrive at the interface, you can choose the genre of the film you want to make, as well as the geographical area in which it will be released. 
 To determine the parameters that will bring fame to our client, we search for links among similar successful films. To find out whether a film is a success or not, we give it a score based on awards (Oscars, nominations...), ratings and budgets.
-
 We then look at whether budget has a major influence on success, as well as screen time, choice of actors and other parameters.
+
+## Research questions
+
 
 ### Our aim is to analyse the factors that determine a film's success. 
 
