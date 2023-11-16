@@ -13,7 +13,17 @@ When you arrive at the interface, you can choose the genre of the film you want 
 To determine the parameters that will bring fame to our client, we search for links among similar successful films. To find out whether a film is a success or not, we give it a score based on awards (Oscars, nominations...), ratings and budgets.
 We then look at whether budget has a major influence on success, as well as screen time, choice of actors and other parameters.
 
+
 ## Research questions
+
+- Which genre is more represented according to a location? Which genre perform better according à location?
+- How do rating and revenue vary as a function of the genre?
+- What is the relation between revenues and being awarded
+- What is the relationship between ratings and revenues
+- Does the cast influence the gender, the revenue amount and the rating?
+- What is the optimal runtime for each genre?
+- Which relation between the screen time and the opportunity to win an award ?
+- Which genre is more nominated/awarded?
 
 
 ### Our aim is to analyse the factors that determine a film's success. 
