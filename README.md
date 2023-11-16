@@ -33,15 +33,17 @@ As we are rating the movies, we need to access the reviews and the oscars awards
 - Data scrapping of IMDb reviews (if we have time): [IMDb scores](exploration/IMDb_scrapping_v1.ipynb) 
 ** A COMPLETER **
 
-### Our aim is to analyse the factors that determine a film's success. 
+## Method
 
-1) First we need to define the **measures of success**. Several indicators could work: number of awards (Oscar, César, etc.), film revenues, reviews, IMDb scores, Twitter/X reactions, etc. 
+### Part 1: Define the metrics
 
-2) In addition, we feel it is important to segment our analysis according to **film genre**: the success factors should be different between a romantic comedy and an action film.
+**Step 1:** We need to define the **measures of success**. Several indicators could work: number of awards (Oscar, César, etc.), film revenues, reviews, IMDb scores, Twitter/X reactions, etc. 
 
-3) Finally, it might be a good idea to break down the analysis by **geographic areas**. The majority of films come from the USA, followed by India, UK, Japan and France. We think about segmenting by continent: USA, Europe, Africa, Asia, India.
+**Step 2:** Since we want to compare films across genres, we need to analyze the distribution of genres across the database. We also need to select which genres to focus on (accroding to the availability of the data).
 
-4) **Drivers** we think are relevant : 
+**Step 3:** We should do the same as the step 2 but for the location. If we keep only the countries, we will have too few data per countries, so we need to define bigger location like mainland: Europe, Asia, Africa, Oceania, America, and USA. 
+
+**Step 4:** We hav to select the other parameters that could be relevant like: 
 - Latent personas (from Learning Latent Personas of Film Characters, David Bamman Brendan O’Connor Noah A. Smith): personnas in a successfull action movie will differ from those in a successfull romantic comedy. 
 - Language
 - Movie runtime
@@ -49,7 +51,8 @@ As we are rating the movies, we need to access the reviews and the oscars awards
 - Age/gender of actors
 - Plot of movies : analyzing popular themes (use NLP to extract a theme for each movie)
 
-5) We could also assume that these factors can change depending on the **historical period**: we could therefore try to break down this analysis over different periods, between 1950 and 2010 (in fact, more than 80% of the films in the dataset are from this period).
+### Part 2: Merge & Clean the data
+
 
 
 ## Questions and analysis
