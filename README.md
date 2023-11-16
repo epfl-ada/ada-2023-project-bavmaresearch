@@ -58,13 +58,13 @@ As we are rating the movies, we need to access the reviews, the budgets, inflati
 
 **Step 6:** Classify the genres and the mainland as defined in step 2 and 3. We create two lists, one with the most famous genres and an other with the top 10 genres in the dataset. For the locations we map the country to its mainland (Europe, Asia, Africa, America, Oceania) and we make an exception for the USA because it already represents a huge proportion of the dataset.
 
-**Step 7:** Merge the additional datasets
+**Step 7:** Merge the additional datasets.
 
-**Step 8:** Check the feasibility of the scientific questions by checking the data availability
+**Step 8:** Check the feasibility of the scientific questions by checking the data availability. For each questions, have we got enough data to answer it? Plot some graphs that can explain/show the feasability.
 
 ### Part 3: Analysis
 
-**Step 8:** Answers to scientific questions in response to our problem
+**Step 8:** Answers to scientific questions in response to our problem.
 
 **Step 9:** Design an easy-to-use interface for the client. The user must be able to select the movie genre and the country where he want to produce the movie, and then we show him the important criteria for a successful film.
 
