@@ -2,7 +2,7 @@
 
 ## Datastory
 
-A producer comes to see us and wants to make a successful movie in a given genre and for a geographical area. He wants to find the best drivers that will make his movie sucessful. We decided to create an easy-to-use interface where the producer can select his parameters and find a way to make the film that will bring him fame and success. 
+A producer comes to see us and wants to make a successful movie in a given genre and for a given geographical area, between USA, America, Africa, Europe, Asia or Oceania. He wants to find the best drivers that will make his movie a success. We decided to create an easy-to-use interface where the producer can select his genre and target market parameters and get the keys on multiple parameters such as runtime, director profile, actor profiles, main language, and potentially plot and character persona elements. 
 
 You can access the interface by clicking on this link: *Coming soon*
 
