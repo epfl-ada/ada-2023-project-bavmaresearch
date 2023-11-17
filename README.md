@@ -2,7 +2,7 @@
 
 ## Datastory
 
-A producer comes to see us and wants to make a successfull movie in a given genre and for a geographical-area. He wants to find the best drivers that will make his movie sucessfull. We decided to create an easy-to-use interface where the producer can select his parameters and find a way to make the film that will bring him fame and success. 
+A producer comes to see us and wants to make a successful movie in a given genre and for a geographical area. He wants to find the best drivers that will make his movie sucessful. We decided to create an easy-to-use interface where the producer can select his parameters and find a way to make the film that will bring him fame and success. 
 
 You can access the interface by clicking on this link: *Coming soon*
 
@@ -10,12 +10,12 @@ You can access the interface by clicking on this link: *Coming soon*
 ## Abstract
 
 When you arrive on the interface, you can choose the genre of the film you want to make, as well as the location in which it will be released. Then we give you some tips to make sure you make a great movie.
-To determine these parameters, we search for links among similar successful films. We then need to define whether a film is a success or not. In order to do that, we give a score based on awards (Oscars, nominations...), ratings and budgets.
+To determine these parameters, we search for links among similar successful films. We then need to define whether a film is a success or not. In order to do that, we give a score based on awards (Oscars, nominations...), ratings and profits.
 We will then answer a series of scientific questions that will help us identify the components needed to make a good film.
 
 ## Research questions
 
-- Which genre is more represented according to a location? Which genre perform better according to a location?
+- Which genre is more represented according to a location? Which genre performs better according to a location?
 - How do rating and revenue vary as a function of the genre?
 - What is the relation between revenues and being awarded?
 - What is the relationship between ratings and revenues?
