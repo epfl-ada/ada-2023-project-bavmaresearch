@@ -98,7 +98,7 @@ As we are rating the movies, we need to access the reviews, the budgets, inflati
 These are some ideas that we wanted to implement, but we need more ressources and time.
 - Extract sentiment analysis score of a movie from plot.
 - Extract sentiment score of movie reviews and tweets.
-- Multiple analysis on the Stanford dataset.
+- Multiple analysis on the Stanford CoreNLP dataset.
 
 
 
