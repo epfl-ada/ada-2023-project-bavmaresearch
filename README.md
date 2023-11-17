@@ -26,7 +26,7 @@ We will then answer a series of scientific questions that will help us identify 
 
 ## Additional datasets
 
-As we are rating the movies, we need to access the reviews, the budgets, inflation and the oscars awards. We use these additional datasets in order to get these informations:
+As we are computing a success rating for each movie, we need to take into account the reviews, the inflation adjusted profits to be able to compare the profitability of each movie and the Oscars nominations and awards. This data is not available in the provided datasets. We use these additional datasets in order to get them:
 
 - Database online: [IMDb free database](https://developer.imdb.com/non-commercial-datasets/) 
 - Data scrapping of IMDb reviews (if we have time): [IMDb scores](exploration/IMDb_scrapping_v1.ipynb)
