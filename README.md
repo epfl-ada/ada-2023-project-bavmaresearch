@@ -68,8 +68,7 @@ As we are rating the movies, we need to access the reviews, the budgets, inflati
 
 **Step 9:** Answers to scientific questions in response to our problem. This step is key for the analysis because it will highlight the parameters for the best movie according to a specific genre and location.
 
-**Step 10:** Implement a machine learning algorithm for pattern movie recognition with only 3 features : Main language, Main country and Movie run time. The idea is to find patterns between successful movies and to determine the importance of specific features. 
-
+**Step 10:**Implement ML Algorithm such as RandomForest and CatBoost models to analyze movie success based on Main Language, Main Country, and Runtime, focusing on top genres. Our approach includes preprocessing steps like categorical encoding and feature scaling. Future expansions will integrate more features, such as genre and budget, enhancing our model to offer deeper insights into what drives movie success.
 **Step 11:** Design an easy-to-use interface for the client. The user must be able to select the movie genre and the country where he wants to produce the movie, and then we show him the important criteria for a successful film.
 
 ## Executed timeline
