@@ -1,4 +1,4 @@
-# How to achieve glory and success as a film maker
+# How to achieve glory and success as a filmmaker
 
 ## Datastory
 
