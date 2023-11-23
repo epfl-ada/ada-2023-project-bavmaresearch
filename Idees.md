@@ -34,7 +34,8 @@ Utiliser les données pour trouver les catégories
 
 
 **Répartition**
-- | Noms | Taks 1 | Task 2 |
+
+| Noms | Taks 1 | Task 2 |
 |--------|--------|--------|
 |Aline|First analysis: refaire tout les graphes en plotly pour pouvoir export .html|Sortir les graphes en .html (demande à GPT) |
 |Mathieu|Trouver le best casting par genre | |
