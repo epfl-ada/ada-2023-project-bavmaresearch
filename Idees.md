@@ -18,6 +18,10 @@ Utiliser les données pour trouver les catégories
 - Family movies / comedies
 - Musical
 
+Analyses par genre : 
+- 
+
+
 
 
 **Outils**: 
@@ -29,7 +33,8 @@ Utiliser les données pour trouver les catégories
 - NLP: sortir les champs lexicaux associés pour chaque catégorie
 - Acteurs + directeurs : graphes avec les acteurs les plus connus qui ont fait pleins de movies dans la catégories + ajouter les photos des plus connus (scrapping google image)
 - Trouver le best cast : 
-- Causal analysis of observational data : sensitivity analysis : nominated, oscar, rating --> profitability ??
+- Causal analysis of observational data : sensitivity analysis : nominated, oscar, rating --> profitability ?? 
+- mauvaises regressions linéaires
 
 
 
@@ -40,11 +45,12 @@ Utiliser les données pour trouver les catégories
 |Aline|First analysis: refaire tout les graphes en plotly pour pouvoir export .html|Sortir les graphes en .html (demande à GPT) |
 |Mathieu|Trouver le best casting par genre | |
 |Val|ML : countries + runtime |Graphes de kiffeurs |
-|Antoine| NLP: trouver les mots clés |Trouver d'autres analyses NLP |
-|Ben|Aller chercher les bières  (Lupulus only)| Recharge ta camipro|
+|Antoine| NLP: trouver les mots clés, autres analyses NLP|Drafter l'interface|
+|Ben|Aller chercher les bières  (Lupulus only)| Causal analysis|
 
 To do list : 
-- scrapper les photos des top acteurs
+- Scrapper les photos des top acteurs : pour faire le Network des liens entre les acteurs
+- Refaire les plots de Milestone 2 en plotly et export en html (voir chat GPT) --> ira dans la partie générale du rapport
 - 
 
 
