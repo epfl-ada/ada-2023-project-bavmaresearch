@@ -50,8 +50,10 @@ Analyses par genre :
 
 To do list : 
 - Scrapper les photos des top acteurs : pour faire le Network des liens entre les acteurs
-- Refaire les plots de Milestone 2 en plotly et export en html (voir chat GPT) --> ira dans la partie générale du rapport
-- 
+- Refaire les plots de Milestone 2 en plotly et export en html (voir chat GPT) --> ira dans la partie générale du rapport- 
+
+
+**FIN DE LA REU, DEBUT DES LUPU**
 
 
 
