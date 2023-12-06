@@ -19,7 +19,6 @@ Utiliser les données pour trouver les catégories
 - Musical
 
 Analyses par genre : 
-- 
 
 
 
@@ -45,15 +44,11 @@ Analyses par genre :
 |Aline|First analysis: refaire tout les graphes en plotly pour pouvoir export .html|Sortir les graphes en .html (demande à GPT) |
 |Mathieu|Trouver le best casting par genre | |
 |Val|ML : countries + runtime |Graphes de kiffeurs |
-|Antoine| NLP: trouver les mots clés, autres analyses NLP|Drafter l'interface|
+|Antoine| Utiliser Tf-Idf|Drafter l'interface|
 |Ben|Aller chercher les bières  (Lupulus only)| Causal analysis|
 
 To do list : 
 - Scrapper les photos des top acteurs : pour faire le Network des liens entre les acteurs
 - Refaire les plots de Milestone 2 en plotly et export en html (voir chat GPT) --> ira dans la partie générale du rapport- 
-
-
-**FIN DE LA REU, DEBUT DES LUPU**
-
-
+- Graphes films + actors : trouver les acteurs au centre du graphe --> voir slides semaine 12 
 
