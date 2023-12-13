@@ -47,8 +47,57 @@ Analyses par genre :
 |Antoine| Utiliser Tf-Idf|Drafter l'interface|
 |Ben|Aller chercher les bières  (Lupulus only)| Causal analysis|
 
-To do list : 
-- Scrapper les photos des top acteurs : pour faire le Network des liens entre les acteurs
-- Refaire les plots de Milestone 2 en plotly et export en html (voir chat GPT) --> ira dans la partie générale du rapport- 
-- Graphes films + actors : trouver les acteurs au centre du graphe --> voir slides semaine 12 
+
+## To do list
+
+- Pour tout le monde : 
+    - Documenter vos codes
+    - Expliquer ce qu'on a fait : read me 
+
+
+- Benoit : 
+    - story telling (avec Aline)
+        - pour chaque genre    
+    - Read Me : 
+        - reprendre Milestone 2 + ajouter les amélirations
+        - Organisation dans la team
+        
+    - causality : donner une analyse pour chaque genre
+
+- Val : 
+    1) Machine learning pour les langues + les pays en focntion des genres 
+        - Mettre sur le site les graphes 
+        - Ajouter un paragraphe pour expliquer le so what
+        - Mettre une map pour chaque genre : en fonction de si ils aiment ou pas tel theme
+
+    2) ML sur les roles : boosted tree
+        - importance de chaque rôle 
+        - meuf / mec / experience de l'acteur
+        - Trouve des acteurs vivants correspondant au rôle
+        - Objectif maxer le score du film
+
+- Aline : story telling 
+    - + de meme + de story 
+    - Remettre en page la première page
+    - Répartition du runtime + profit pour chaque genre
+
+- Antoine : 
+    - Causality analysis (avec Beun)
+    - Graphes films + actors : trouver les acteurs au centre du graphe --> voir slides semaine 12  : utiliser les outils et le faire pour chaque genre 
+
+- Mathieu :  
+    - Adapter le cast avec les acteurs du modèle de Val
+    - Adapter pour le directeur optimal
+    
+
+
+
+**Dans les pages genres :**
+
+- NLP
+- Causality
+- Geographie + langue + 
+- Chaque genre : les meilleurs acteurs + producteurs
+- Runtime + profit pour chaque genre
+
 
