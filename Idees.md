@@ -82,7 +82,7 @@ Analyses par genre :
     - Répartition du runtime + profit pour chaque genre
 
 - Antoine : 
-    - Causality analysis (avec Beun)
+    - Causality analysis (avec Beun) : analyse des résultats
     - Graphes films + actors : trouver les acteurs au centre du graphe --> voir slides semaine 12  : utiliser les outils et le faire pour chaque genre 
 
 - Mathieu :  
