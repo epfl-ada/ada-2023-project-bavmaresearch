@@ -16,15 +16,15 @@ To finish our study and offer the reader a concrete solution, we go through each
 
 
 ## Research questions
+These are some of the research questions we're going to try to answer. They will provide a common thread for our analysis and lead us to the elements for a masterpiece.
 
 - Which genre is more represented according to a location? Which genre performs better according to a location?
-- How do rating and revenue vary as a function of the genre?
+- Which relation between the screen time and the opportunity to win an award ?
 - What is the relation between revenues and being awarded?
 - What is the relationship between ratings and revenues?
-- Does the cast influence the gender, the revenue amount and the rating?
+- How do rating and revenue vary as a function of the genre?
 - What is the optimal runtime for each genre?
-- Which relation between the screen time and the opportunity to win an award ?
-- Which genre is more nominated/rewarded?
+- Does the cast influence the gender, the revenue amount and the rating?
 
 ## Additional datasets
 
