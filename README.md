@@ -8,11 +8,12 @@ You can access our datastory by clicking [here](https://antoine2bouille.github.i
 
 ## Abstract
 
-In this study, we try to 
+In this study, we seek to uncover the ingredients that go into making the perfect film, so as to achieve success and glory at the Oscars. To do this, we begin by examining the relationship between ImbD scores and the 5 main film genres (Drama, Family, Action/adventure, Science-Fiction & Horror). We then separate the analysis feature by feature, starting with the study of the best screen time, then check the link between winning an award and subsequent revenues and ratings. Finally, we compare different aspects depending on the continent on which the film is released.
 
-On the website, you can choose the genre of the film you want to make, as well as the location where it will be released. We will give you some tips to make sure you produce a great movie.
-To determine these parameters, we search for links among similar successful films. We then need to define whether a film is a success or not. In order to do that, we give a score based on awards (Oscars, nominations...), ratings and profits. 
-We will then answer a series of scientific questions that will help us identify the components needed to make a good film.
+This first study enables us to set the framework for our study, so that we can go into more detail in the analysis when we look at a particular genre.
+
+To finish our study and offer the reader a concrete solution, we go through each genre one by one to determine what the succesfull drivers are, such as the themes tackled, the 5 countries in which the film will be the most successful, the languages and finally the perfect csting for a given film.
+
 
 ## Research questions
 
