@@ -18,13 +18,14 @@ To finish our study and offer the reader a concrete solution, we go through each
 ## Research questions
 These are some of the research questions we're going to try to answer. They will provide a common thread for our analysis and lead us to the elements for a masterpiece.
 
-- Which genre is more represented according to a location? Which genre performs better according to a location?
-- Which relation between the screen time and the opportunity to win an award ?
-- What is the relation between revenues and being awarded?
 - What is the relationship between ratings and revenues?
 - How do rating and revenue vary as a function of the genre?
+- What is the causal relationship between the fact of being awarded an Oscar and the success of the movie, both in rating and in profitability?
 - What is the optimal runtime for each genre?
-- Does the cast influence the gender, the revenue amount and the rating?
+- Where should we broadcast the movie according to the genre?
+- Which genre is more represented according to a location? Which genre performs better according to a location?
+- What should be the main languages of the movie?
+- What is the optimal cast for a given genre ? 
 - What are the key main themes explored in a given genre? 
 
 ## Additional datasets
@@ -62,17 +63,17 @@ This pipeline aims to explore for each genre:
 - The most important languages of diffusion
 - The optimal cast for each genre
 
-**Part 5: designing an interface for the data story and results vizualisation**
-
 ## Executed timeline
 
 03.11.2023 : Exploring the dataset and finding new usefull data
 
 **Milestone 2** - 17/11/2023 : Part 1 
 
-10.12.2023 : Step 8 & 9
+10.12.2023 : Part 2-4
 
-20.12.2023 : Step 10 & 11
+15.12.2023 : designing an interface for the data story and results vizualisation
+
+20.12.2023 : explaining the results and the main findings
 
 **Milestone 3** - 22/12/2023 
 
