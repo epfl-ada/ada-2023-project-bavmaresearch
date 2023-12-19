@@ -47,10 +47,11 @@ Our final analysis focuses on 4 main analysis for each genre
 - This part extends our analysis in Milestone 2
 - We explore the key links between variables for each genre using diverse plotting methods
 
-**Part 2: using natural language processing to extrat relevant information from the plots**
+**Part 2: using natural language processing to extract relevant information from the plots**
 
 - We first preprocess the plots using NLP techniques : lemmatization, stemmming, bag of words
-- We use feature extraction techniques to find the main themes: use of empath and SpaCy libraries
+- We use feature extraction techniques to find the main themes: use of LdaMulticore, empath and SpaCy libraries to extract the themes
+- We use ChatGPT API to generate a new plot for each genre
 - We also tried to use sentiment analysis analysis to find the negativity and positivity of plots. The analysis does not give significant results.
 
 **Part 3: causal analysis of observational data**
