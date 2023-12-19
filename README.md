@@ -8,7 +8,9 @@ You can access our datastory by clicking [here](https://antoine2bouille.github.i
 
 ## Abstract
 
-When you arrive on the interface, you can choose the genre of the film you want to make, as well as the location where it will be released. We will give you some tips to make sure you produce a great movie.
+In this study, we try to 
+
+On the website, you can choose the genre of the film you want to make, as well as the location where it will be released. We will give you some tips to make sure you produce a great movie.
 To determine these parameters, we search for links among similar successful films. We then need to define whether a film is a success or not. In order to do that, we give a score based on awards (Oscars, nominations...), ratings and profits. 
 We will then answer a series of scientific questions that will help us identify the components needed to make a good film.
 
