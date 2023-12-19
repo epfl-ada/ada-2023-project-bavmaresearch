@@ -66,7 +66,7 @@ As we are computing a success rating for each movie, we need to take into accoun
 
 **Step 8:** Check the feasibility of the scientific questions by checking the data availability. For each question, have we got enough data to answer it? Plot some graphs that can explain/show the feasability.
 
-### Part 3: Analysis
+### Part 3: Analysis & Datastory
 
 **Step 9:** Answers to scientific questions in response to our problem. This step is key for the analysis because it will highlight the parameters for the best movie according to a specific genre and location.
 
@@ -80,9 +80,9 @@ As we are computing a success rating for each movie, we need to take into accoun
 
 **Milestone 2** - 17/11/2023 : Part 2 
 
-10.12.2023 : Step 8
+10.12.2023 : Step 8 & 9
 
-20.12.2023 : Step 9
+20.12.2023 : Step 10 & 11
 
 **Milestone 3** - 22/12/2023 
 
@@ -90,22 +90,11 @@ As we are computing a success rating for each movie, we need to take into accoun
 ## Organization within team
 | Teammate | Role|
 | --- | --- | 
-|**Aline** |Initial analysis of scientific questions feasibility|
-|**Mathieu**|Data merging and initial analysis of scientific questions feasibility| 
-|**Benoit**|Analysis/grouping of genres and countries + ReadMe| 
-|**Antoine**|Data cleaning and initial analysis of scientific questions feasibility|
-|**Valentin**|Define the formula and the ML algorithm for the success rating |
-
-
-## Additional ideas
-
-These are some ideas that we wanted to implement, but we need more ressources and time.
-- Extract sentiment analysis score of a movie from plot.
-- Extract sentiment score of movie reviews and tweets.
-- Multiple analysis on the Stanford CoreNLP dataset.
-
-
-
+|**Aline** |***|
+|**Mathieu**|***| 
+|**Benoit**|Causal analysis + interface content & design + ReadMe| 
+|**Antoine**|***|
+|**Valentin**|***|
 
 
 ## BAVMA Research Team
