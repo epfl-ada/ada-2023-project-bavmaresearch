@@ -4,7 +4,7 @@
 
 A movie producer comes to see us and says he wants to make a successful movie in a given genre: Drama, Comedy, Action and advendture, science-fiction and Horror. He wants to find the best drivers that will make his movie a success, both financially by making substantial box office profits, and critically by getting good ratings and reviews. We decided to create an easy-to-use interface where the producer can select his genre and target market parameters and get feedback on the optimization of multiple parameters such as runtime, director profile, actor profiles, main language, and potentially plot and character persona elements in order to achieve his goal. 
 
-You can access our datastory by clicking [here](https://antoine2bouille.github.io/).
+You can access our datastory by clicking [here](https://antoine2bouille.github.io/success/).
 
 ## Abstract
 
@@ -58,6 +58,7 @@ Our final analysis focuses on 4 main analysis for each genre
 - We explore the causal relationship between the fact of being awarded an Oscar and revenue of the movie
 
 **Part 4: using a machine learning pipeline**
+
 This pipeline aims to explore for each genre:
 - The countries where the movie should be released
 - The most important languages of diffusion
