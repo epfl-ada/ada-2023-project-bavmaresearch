@@ -1,6 +1,6 @@
 # Idée Milestone 3
 
-Avant de select 5 jours : on propose une analyse, mauvais graphes **Macro**
+Avant de select 5 genre : on propose une analyse, mauvais graphes **Macro**
 - Best producters: most successfull movies
 - Distributions des scores (awarded/non awarded)
 - Analysis H/F
