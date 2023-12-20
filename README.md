@@ -8,11 +8,11 @@ You can access our datastory by clicking [here](https://antoine2bouille.github.i
 
 ## Abstract
 
-In this study, we seek to uncover the ingredients that will make the perfect film, so as to achieve success and glory at the Oscars ceremony. To do this, we begin by examining the relationship between ImbD scores and the 5 main film genres (Drama, Family, Action/adventure, Science-Fiction & Horror). We then separate the analysis feature by feature, starting with the study of the best screen time, then check the link between winning an award and subsequent revenues and ratings. Finally, we compare different aspects depending on the continent on which the film is released.
+In this study, we seek to uncover the ingredients that will make the perfect film, so as to achieve success and glory at the Oscars ceremony. To do this, we begin by examining the relationship between IMDb scores and the 5 main film genres (Drama, Family, Action/adventure, Science-Fiction & Horror). We then separate the analysis feature by feature, starting with the study of the best screen time, then check the link between winning an award and subsequent revenues and ratings. Finally, we compare different aspects depending on the continent on which the film is released.
 
 This first study enables us to set the framework for our study, so that we can go into more detail in the analysis when we look at a particular genre.
 
-To finish our study and offer the reader a concrete solution, we go through each genre one by one to determine what the succesfull drivers are, such as the themes tackled, the 5 countries in which the film will be the most successful, the languages and finally the perfect casting and film director.
+To finish our study and offer the reader a concrete solution, we go through each genre one by one to determine what the succesful drivers are, such as the themes tackled, the 5 countries in which the film will be the most successful, the languages and finally the perfect casting and film director.
 
 
 ## Research questions
@@ -84,7 +84,7 @@ This pipeline aims to explore for each genre:
 | Teammate | Role|
 | --- | --- | 
 |**Aline** |Analysis of key drivers by genre|
-|**Mathieu**|Understanding the perfect cast for a genre| 
+|**Mathieu**|Interface design and dataset creation| 
 |**Benoit**|Causal analysis + interface content & design + ReadMe| 
 |**Antoine**|NLP analysis of main themes and website designing|
 |**Valentin**|ML pipeline|
