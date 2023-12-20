@@ -85,7 +85,7 @@ This pipeline aims to explore for each genre:
 | --- | --- | 
 |**Aline** |Analysis of key drivers by genre|
 |**Mathieu**|Interface design and dataset creation| 
-|**Benoit**|Causal analysis + interface content & design + ReadMe| 
+|**Benoit**|Causal analysis + ReadMe| 
 |**Antoine**|NLP analysis of main themes and website designing|
 |**Valentin**|ML pipeline|
 
