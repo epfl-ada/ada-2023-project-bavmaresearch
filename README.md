@@ -55,7 +55,7 @@ Our final analysis focuses on 4 main analysis for each genre
 - We also tried to use sentiment analysis analysis to find the negativity and positivity of plots. The analysis does not give significant results.
 
 **Part 3: causal analysis of observational data**
-- We explore the causal relationship between the fact of being awarded an Oscar and IMBD scoring
+- We explore the causal relationship between the fact of being awarded an Oscar and IMDb scoring
 - We explore the causal relationship between the fact of being awarded an Oscar and revenue of the movie
 
 **Part 4: using a machine learning pipeline**
@@ -67,7 +67,7 @@ This pipeline aims to explore for each genre:
 
 ## Executed timeline
 
-03.11.2023 : Exploring the dataset and finding new usefull data
+03.11.2023 : Exploring the dataset and finding new useful data
 
 **Milestone 2** - 17/11/2023 : Part 1 
 
